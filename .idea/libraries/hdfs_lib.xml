@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hdfs_lib">
+    <CLASSES>
+      <root url="file:///usr/local/Cellar/hadoop/share/hadoop/hdfs/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file:///usr/local/Cellar/hadoop/share/hadoop/hdfs/lib" recursive="false" />
+  </library>
+</component>
